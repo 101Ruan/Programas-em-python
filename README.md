@@ -19,7 +19,7 @@ Scaneie sites para achar portas abertas.
 
 📱 localização pelo telefone
 
-Descubra localização da pessoa só pelo número de telefone, ferramentas simples.
+Descubra localização da pessoa só pelo número de telefone, ferramenta simples.
 
 ⏬ como instalar (TERMUX)
 
