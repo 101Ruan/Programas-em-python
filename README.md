@@ -1,16 +1,23 @@
 # Programas-em-python
-ferramentas para pentest:
+Ferramentas para pentest:
 
 🏧 Ddos
-ataque Ddos simples, para você poder colocar o ip ou url do site que você quer atacar tem que entrar no código e modificar a parte onde fica o nome ip ou url.
+Ataque Ddos simples, para você poder colocar o ip ou url do site que você quer atacar tem que entrar no código e modificar a parte onde fica o nome ip ou url.
 
 🐟 Phishing
-site falso de login simples, pega nome completo, email e senha da vitima.
+Site falso de login simples, pega nome completo, email e senha da vitima.
 
 🌀 Scan de arquivos
-scaneie arquivos para ver se tem algum nome de malwares, antivírus simples sem interface gráfica.
+Scaneie arquivos para ver se tem algum nome de malwares, antivírus simples sem interface gráfica.
 
 🚪 Scan de portas
-scaneie sites para achar portas abertas.
+Scaneie sites para achar portas abertas.
 
+📱 localização pelo telefone
+Descubra localização da pessoa só pelo número de telefone, ferramentas simples.
 
+⏬ como instalar (TERMUX)
+• pkg install git
+• pkg install python3
+• pkg install python-pip
+• git clone https://github.com/101Ruan/Programas-em-python
