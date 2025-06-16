@@ -13,11 +13,10 @@ s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 os.system('cls')
 print("_____________________________________________________________________________________")
-text = "Ddos_NetFye"
+text = "DDoSFy"
 print(pyfiglet.figlet_format(text))
 print("_____________________________________________________________________________________")
 print(Fore.CYAN + "github: https://github.com/101Ruan" + Style.RESET_ALL)
-print(Fore.CYAN + "instagram: https://instagram.com/Darkzero4913\n" + Style.RESET_ALL)
 
 mensagem = input(Fore.BLUE + "digite uma mensagem: " + Style.RESET_ALL).encode()
 if not mensagem:
