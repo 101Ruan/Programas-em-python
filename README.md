@@ -3,7 +3,7 @@ Ferramentas para pentest:
 
 🏧 DDoS
 
-Ataque Ddos simples, para você poder colocar o ip ou url do site que você quer atacar tem que entrar no código e modificar a parte onde fica o nome ip ou url.
+O DDosFy faz um Ataque Ddos simples, para você poder colocar o ip ou url do site que você quer atacar tem que entrar no código e modificar a parte onde fica o nome ip ou url.
 
 🐟 Phishing
 
