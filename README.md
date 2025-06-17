@@ -7,7 +7,7 @@ O DDosFy faz um Ataque Ddos simples, para você poder colocar o ip ou url do sit
 
 🐟 Phishing
 
-Truphisher cria um Site falso de login simples, pega nome completo, email e senha da vitima.
+Truphisher cria um Site falso de login simples, pega nome completo, email e senha da vitima. (COM ERRO)
 
 🌀 Scan de arquivos
 
