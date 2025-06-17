@@ -5,10 +5,6 @@ Ferramentas para pentest:
 
 O DDosFy faz um Ataque Ddos simples, para você poder colocar o ip ou url do site que você quer atacar tem que entrar no código e modificar a parte onde fica o nome ip ou url.
 
-🐟 Phishing
-
-Truphisher cria um Site falso de login simples, pega nome completo, email e senha da vitima. (COM ERRO)
-
 🌀 Scan de arquivos
 
 O Tvirus Scaneia arquivos para ver se tem algum nome de malwares, antivírus simples sem interface gráfica.
