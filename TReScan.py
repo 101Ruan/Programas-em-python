@@ -1,3 +1,9 @@
+'''
+all for Knowledge
+
+NetExploit
+'''
+
 # importa a biblioteca socket e colorama
 import socket
 from colorama import init, Fore, Style
@@ -36,7 +42,7 @@ print(Fore.BLUE+f"alvo: {alvo}\n"+Style.RESET_ALL)
 
 try:
     # varre das portas 1 até 1025
-    for porta in range(1, 1025):
+    for porta in range(1, 16000):
     	sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM) # cria um socket para conexão tcp
 
 	    # define o tempo de conexão
@@ -49,3 +55,11 @@ except Exception as e:
  	print(Fore.RED+f"ERRO!"+Style.RESET_ALL)
  	
  	sock.close() # fecha o socket
+
+'''
+
+desenvolved by DarkZero
+
+Group NetExploit
+
+'''
