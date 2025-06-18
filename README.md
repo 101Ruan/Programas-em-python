@@ -3,11 +3,11 @@ Ferramentas para pentest:
 
 🏧 DDoS
 
-O DDosFy faz um Ataque Ddos simples, para você poder colocar o ip ou url do site que você quer atacar tem que entrar no código e modificar a parte onde fica o nome ip ou url.
+O DDos_NetFy faz um Ataque Ddos simples com python socket.
 
 🌀 Scan de arquivos
 
-O Tvirus Scaneia arquivos para ver se tem algum nome de malwares, antivírus simples sem interface gráfica.
+O Tvirus é uma ferramenta de análise de malware em arquivos, procurando nome de malwares dentro dos arquivo.
 
 🚪 Scan de portas
 
@@ -15,7 +15,7 @@ O TReScan Scaneia sites para achar portas abertas.
 
 📱 localização pelo telefone
 
-O num-Tracker Descubre localização da pessoa só pelo número de telefone, ferramenta simples.
+O num-Tracker Descubre localização da pessoa só pelo número de telefone, ferramenta simples, pega só o estado pelo ddd.
 
 ⏬ como instalar (TERMUX)
 
